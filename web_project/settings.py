@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_f!xcva3_=n_o^kinsgi(v(gb2$hov*a-+0%n+kn=6jdj_-t23
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['buckingham1802154-cldc-ass3.eu-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['1802154buckingham-cldc-ass3.eu-west-2.elasticbeanstalk.com']
 
 
 # Application definition
